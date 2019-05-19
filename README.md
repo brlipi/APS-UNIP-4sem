@@ -8,6 +8,16 @@ Qual a proposta desse semestre?
 -----------
 A proposta desse semestre é desenvolver um programa que apresente 3 tipos de sorts diferentes feitas na linguagem C.
 
+Quais os métodos de sort usados?
+-----------
+- bubble sort
+- merge sort
+- quick sort
+
+Como compilar:
+-----------
+`gcc -g .\main.c .\source_files\sorts.c .\source_files\tools.c`
+
 APSs anteriores:
 -----------
 * **APS 1º semestre  de 2018:** [CLIQUE AQUI](https://github.com/ogabriel/APS-UNIP-3sem)
